@@ -1,0 +1,252 @@
+Bird,Ratio
+Red-winged Blackbird (Agelaius phoeniceus),0.855768439483358
+Double-crested Cormorant (Phalacrocorax auritus),0.31878038614496035
+Spotted Sandpiper (Actitis macularius),0.9506869578571656
+European Starling (Sturnus vulgaris),0.5523824684848645
+Barn Swallow (Hirundo rustica),0.6815066621859737
+Cliff Swallow (Petrochelidon pyrrhonota),0.5880668860862752
+Tree Swallow (Tachycineta bicolor),0.9261105877144079
+Canada Goose (Branta canadensis),0.6409007197348674
+Common Merganser (Mergus merganser),2.2589197425880987
+Mallard (Anas platyrhynchos),0.7513722075406015
+Song Sparrow (Melospiza melodia),0.9631184914097249
+Eastern Kingbird (Tyrannus tyrannus),0.6112185022069668
+Black-crowned Night-Heron (Nycticorax nycticorax),0.21969355477194447
+Common Grackle (Quiscalus quiscula),0.8680459660341566
+Red-tailed Hawk (Buteo jamaicensis),0.634923031902437
+Caspian Tern (Hydropogne caspia),0.948053351297718
+Great Black-backed Gull (Larus marinus),0.22121634920820807
+Herring Gull (Larus argentatus),6.1732710474285595
+Ring-billed Gull (Larus delawarensis),0.3470184147040781
+Gadwall (Anas strepera),0.3280285129899869
+Alder Flycatcher (Empidonax alnorum),1.290488445310542
+Yellow Warbler (Dendroica petechia),0.6004412132680738
+Baltimore Oriole (Icterus galbula),0.4882623418483939
+Brown-headed Cowbird (Molothrus ater),0.5012408666244005
+Black-capped Chickadee (Poecile atricapillus),1.0863594897886604
+Black-billed Cuckoo (Coccyzus erythropthalmus),0.6089276197563638
+American Goldfinch (Carduelis tristis),0.9024858496120827
+Northern Cardinal (Cardinalis cardinalis),0.3411765731050585
+Rose-breasted Grosbeak (Pheucticus ludovicianus),0.9024212288441519
+American Crow (Corvus brachyrhynchos),0.8497717695300211
+Gray Catbird (Dumetella carolinensis),0.6543941341290944
+Mourning Dove (Zenaida macroura),0.69433890519224
+Killdeer (Charadrius vociferus),0.41253135301030275
+Northern Rough-winged Swallow (Stelgidopteryx serripennis),0.3496121548096228
+Purple Martin (Progne subis),0.22643862188098723
+Wood Duck (Aix sponsa),0.8135289544113044
+American Robin (Turdus migratorius),1.0158804439017552
+Chipping Sparrow (Spizella passerina),0.8827932254763198
+Eastern Towhee (Pipilo erythrophthalmus),0.45270236730196356
+Field Sparrow (Spizella pusilla),0.4344664086726994
+Least Flycatcher (Empidonax minimus),1.2385567421948673
+Willow Flycatcher (Empidonax traillii),0.3161317974838466
+Red-eyed Vireo (Vireo olivaceus),1.1060311537056497
+Cedar Waxwing (Bombycilla cedrorum),1.0532464906145025
+American Redstart (Setophaga ruticilla),1.0947040667234105
+Common Yellowthroat (Geothlypis trichas),1.0377784302663218
+Northern Flicker (Colaptes auratus),0.883405948483904
+House Wren (Troglodytes aedon),0.4694509230789413
+Bobolink (Dolichonyx oryzivorus),0.42617560588927506
+Eastern Meadowlark (Sturnella magna),0.3296524553905055
+Northern Harrier (Circus cyaneus),0.49887316464720893
+Upland Sandpiper (Bartramia longicauda),0.19518743043937878
+Clay-colored Sparrow (Spizella pallida),0.3735753469349415
+Savannah Sparrow (Passerculus sandwichensis),0.429370598885747
+Turkey Vulture (Cathartes aura),0.8001891454174571
+Indigo Bunting (Passerina cyanea),0.671527208348261
+Blue Jay (Cyanocitta cristata),1.0604562637354025
+Belted Kingfisher (Megaceryle alcyon),0.9430309758007357
+Brown Thrasher (Toxostoma rufum),0.36552852265085767
+Ring-necked Pheasant (Phasianus colchicus),0.2558946102517401
+Wild Turkey (Meleagris gallopavo),0.7620085620425295
+Great Horned Owl (Bubo virginianus),0.4852362357605549
+Eastern Wood-Pewee (Contopus virens),0.7875973870344027
+Warbling Vireo (Vireo gilvus),0.43767836492591466
+Downy Woodpecker (Picoides pubescens),0.8590619181180664
+Hairy Woodpecker (Picoides villosus),1.2120788793869373
+Green Heron (Butorides virescens),0.28629595529874563
+Yellow-billed Cuckoo (Coccyzus americanus),0.5121690511261825
+White-breasted Nuthatch (Sitta carolinensis),0.8832883108082097
+American Woodcock (Scolopax minor),0.7876585618570942
+Wilson's Snipe (Gallinago delicata),1.0354083284604565
+Bank Swallow (Riparia riparia),0.33267267327846695
+Blue-winged Teal (Anas discors),0.7167485587393019
+Veery (Catharus fuscescens),0.916681229107082
+Wood Thrush (Hylocichla mustelina),0.7033766203594632
+Eastern Phoebe (Sayornis phoebe),0.8212956464768759
+Great Crested Flycatcher (Myiarchus crinitus),0.764210515341432
+Ovenbird (Seiurus aurocapilla),1.2632233461731752
+American Bittern (Botaurus lentiginosus),1.4923285652322438
+Great Blue Heron (Ardea herodias),1.005273536060882
+American Kestrel (Falco sparverius),0.3756904634958474
+House Finch (Carpodacus mexicanus),0.3418168518354422
+Purple Finch (Carpodacus purpureus),1.6117480021620691
+Pied-billed Grebe (Podilymbus podiceps),0.896582662494338
+Ruby-throated Hummingbird (Archilochus colubris),1.0728503285802202
+Cooper's Hawk (Accipiter cooperii),0.5770741523237609
+Common Loon (Gavia immer),8.574782412896097
+House Sparrow (Passer domesticus),0.3327435217322017
+Ruffed Grouse (Bonasa umbellus),1.7795374486737192
+Common Moorhen (Gallinula chloropus),0.5302035059458671
+Black Tern (Chlidonias niger),1.0906561677540028
+Red-breasted Merganser (Mergus serrator),0.5597187862815803
+Eastern Bluebird (Sialia sialis),0.6248416066235507
+Swamp Sparrow (Melospiza georgiana),1.2467602475646606
+Winter Wren (Troglodytes troglodytes),3.4993771113067966
+Northern Mockingbird (Mimus polyglottos),0.18618533078511698
+Red-breasted Nuthatch (Sitta canadensis),2.389703496589726
+Rock Pigeon (Columba livia),0.38501322780419217
+Chimney Swift (Chaetura pelagica),1.0535824540048195
+Eastern Screech-Owl (Megascops asio),0.29656277662180025
+Short-eared Owl (Asio flammeus),0.25678642129723955
+Red-headed Woodpecker (Melanerpes erythrocephalus),0.25631454329855674
+Yellow-bellied Sapsucker (Sphyrapicus varius),1.6512306510170018
+Carolina Wren (Thryothorus ludovicianus),0.17818194068433657
+Horned Lark (Eremophila alpestris),0.20465632682517923
+Gray Partridge (Perdix perdix),0.1256192109780917
+Virginia Rail (Rallus limicola),0.4943909836807342
+American Wigeon (Anas americana),1.0202415184538856
+Mute Swan (Cygnus olor),0.13281684560344334
+Northern Shoveler (Anas clypeata),0.4433345718180817
+Marsh Wren (Cistothorus palustris),0.37963758346828935
+Blue-gray Gnatcatcher (Polioptila caerulea),0.34025560543373196
+Sora (Porzana carolina),0.548221814681846
+White-throated Sparrow (Zonotrichia albicollis),3.006304461124348
+Chestnut-sided Warbler (Dendroica pensylvanica),1.151323029383504
+Northern Waterthrush (Seiurus noveboracensis),1.7342997669212132
+Scarlet Tanager (Piranga olivacea),1.039661175343646
+Magnolia Warbler (Dendroica magnolia),2.740531224428604
+Brown Creeper (Certhia americana),2.146186008066826
+Whip-poor-will (Caprimulgus vociferus),0.6067631689493871
+Common Raven (Corvus corax),2.345260693346716
+Sharp-shinned Hawk (Accipiter striatus),0.9408683392142386
+American Black Duck (Anas rubripes),1.7924548921881425
+Dark-eyed Junco (Junco hyemalis),1.916237453813005
+Black-throated Green Warbler (Dendroica virens),1.923718856011025
+Yellow-rumped Warbler (Dendroica coronata),2.1212143043242784
+Nashville Warbler (Vermivora ruficapilla),3.3621238382874052
+Pileated Woodpecker (Dryocopus pileatus),1.250929707586505
+Yellow-throated Vireo (Vireo flavifrons),0.5504535717510322
+Black-and-white Warbler (Mniotilta varia),1.5632400169730138
+Blue-winged Warbler (Vermivora pinus),0.31981195224688486
+Red-bellied Woodpecker (Melanerpes carolinus),0.23561377593112978
+Least Bittern (Ixobrychus exilis),0.7818330783278064
+Tufted Titmouse (Baeolophus bicolor),0.3882050213264341
+Vesper Sparrow (Pooecetes gramineus),0.30859462694295203
+Orchard Oriole (Icterus spurius),0.17488642096237444
+Pine Siskin (Carduelis pinus),3.441738304458659
+Green-winged Teal (Anas crecca),0.791847657100277
+Hermit Thrush (Catharus guttatus),2.2545375676979664
+Grasshopper Sparrow (Ammodramus savannarum),0.3326502829698207
+Pine Warbler (Dendroica pinus),1.2566903426791052
+Common Tern (Sterna hirundo),0.16807449084829224
+Prairie Warbler (Dendroica discolor),0.38113616366635555
+Sedge Wren (Cistothorus platensis),0.593348284820164
+Hooded Merganser (Lophodytes cucullatus),2.1503081125403107
+Barred Owl (Strix varia),2.030974342774637
+Blue-headed Vireo (Vireo solitarius),2.2516521666469314
+Brewster's Warbler (Vermivora pinus x V. chrysoptera),0.2541986371768005
+Golden-winged Warbler (Vermivora chrysoptera),0.3986263312940923
+American Coot (Fulica americana),0.7214127976952043
+Broad-winged Hawk (Buteo platypterus),1.9818849232007616
+Mourning Warbler (Oporornis philadelphia),1.285072428124201
+Bald Eagle (Haliaeetus leucocephalus),1.5712558109875105
+Osprey (Pandion haliaetus),1.666437390004021
+Trumpeter Swan (Cygnus buccinator),1.1087940924846775
+Northern Goshawk (Accipiter gentilis),2.064008733132876
+Henslow's Sparrow (Ammodramus henslowii),0.33332798343764947
+Black-throated Blue Warbler (Dendroica caerulescens),3.2617299603017886
+Evening Grosbeak (Coccothraustes vespertinus),3.7696456528844466
+Red-shouldered Hawk (Buteo lineatus),1.2836648627366838
+Blackburnian Warbler (Dendroica fusca),2.932677464193809
+Cerulean Warbler (Dendroica cerulea),0.4540280106525788
+Golden-crowned Kinglet (Regulus satrapa),4.735254190476259
+Louisiana Waterthrush (Seiurus motacilla),0.6921728341467729
+Yellow-bellied Flycatcher (Empidonax flaviventris),11.7149560892521
+Canada Warbler (Wilsonia canadensis),2.769144698139762
+Fish Crow (Corvus ossifragus),0.13978420032664007
+Hooded Warbler (Wilsonia citrina),0.3880105480389189
+Northern Parula (Parula americana),8.178384037265111
+Ruby-crowned Kinglet (Regulus calendula),6.2273282658132265
+Common Nighthawk (Chordeiles minor),0.4439947484691249
+White-winged Tern (Chlidonias leucopterus),11.767396600709308
+Long-eared Owl (Asio otus),1.096006882797971
+Swainson's Thrush (Catharus ustulatus),13.097608733905107
+Olive-sided Flycatcher (Contopus cooperi),10.094011574949999
+Mallard x Am. Black Duck Hybrid (Anas platyrhynchos x A. rubripes),0.791970965519589
+Ruddy Duck (Oxyura jamaicensis),0.8833653888563819
+Yellow-breasted Chat (Icteria virens),0.20720400357558252
+Northern Saw-whet Owl (Aegolius acadicus),2.5782913062282944
+Lincoln's Sparrow (Melospiza lincolnii),11.680352558305511
+Philadelphia Vireo (Vireo philadelphicus),5.364494462717636
+Acadian Flycatcher (Empidonax virescens),0.6876680844452802
+Merlin (Falco columbarius),6.514447503274556
+Black-backed Woodpecker (Picoides arcticus),17.100808195311593
+Boreal Chickadee (Poecile hudsonica),19.761369428338735
+American Three-toed Woodpecker (Picoides dorsalis),13.065161983271304
+Golden Eagle (Aquila chrysaetos),2.7098296676789775
+Northern Pintail (Anas acuta),1.02795571022401
+White-winged Crossbill (Loxia leucoptera),11.20297246515766
+Peregrine Falcon (Falco peregrinus),1.4437313480062417
+Rusty Blackbird (Euphagus carolinus),29.531473394582054
+Loggerhead Shrike (Lanius ludovicianus),0
+White-eyed Vireo (Vireo griseus),0.16516148015753299
+Lawrence's Warbler (Vermivora chrysoptera x V. pinus),0.6370479486405612
+Red Crossbill (Loxia curvirostra),5.310048112099733
+Ring-necked Duck (Aythya collaris),12.174043012493787
+Northern Bobwhite (Colinus virginianus),0.16551578757716023
+Gray Jay (Perisoreus canadensis),9.509982911914326
+Blackpoll Warbler (Dendroica striata),25.564859783291922
+Redhead (Aythya americana),0.5844947867929431
+Tennessee Warbler (Vermivora peregrina),11.572427875375046
+Bay-breasted Warbler (Dendroica castanea),16.448057066625793
+Common Goldeneye (Bucephala clangula),3.5867680160143602
+Spruce Grouse (Falcipennis canadensis),4.213383921921168
+Palm Warbler (Dendroica palmarum),6.910076891658861
+Cape May Warbler (Dendroica tigrina),13.117530427033437
+Bicknell's Thrush (Catharus bicknelli),70.17770639892632
+Great Egret (Ardea alba),0.0677816928117096
+Wilson's Warbler (Wilsonia pusilla),Infinity
+Sandhill Crane (Grus canadensis),1.8530171111436051
+Barn Owl (Tyto alba),0.038665578892914915
+Cattle Egret (Bubulcus ibis),0.5061067534461113
+Glossy Ibis (Plegadis falcinellus),0.030036264536268467
+Wilson's Phalarope (Phalaropus tricolor),0.12671792699862766
+Nelson's Sharp-tailed Sparrow (Ammodramus nelsoni),0.2705524123604829
+Black Vulture (Coragyps atratus),0.12291039929829373
+Worm-eating Warbler (Helmitheros vermivorum),0.29639709413727255
+Kentucky Warbler (Oporornis formosus),0.42088236503417986
+Yellow-throated Warbler (Dendroica dominica),0.4773619574318868
+Dickcissel (Spiza americana),0.020728232195409774
+Prothonotary Warbler (Protonotaria citrea),0.6381994364808936
+Monk Parakeet (Myiopsitta monachus),0.0663246460055526
+Boat-tailed Grackle (Quiscalus major),0.028992138299279206
+Chuck-will's-widow (Caprimulgus carolinensis),0.3385522672881824
+Clapper Rail (Rallus longirostris),0.02890907236846699
+Saltmarsh Sharp-tailed Sparrow (Ammodramus caudacutus),0.04498774453553266
+American Oystercatcher (Haematopus palliatus),0.027378960013449388
+Willet (Tringa semipalmata),0.03091001736236481
+Blue Grosbeak (Passerina caerulea),0.3548546965204938
+Yellow-crowned Night-Heron (Nyctanassa violacea),0.03948883361989986
+Seaside Sparrow (Ammodramus maritimus),0.04803685372349176
+Little Blue Heron (Egretta caerulea),0.013775615553238883
+Snowy Egret (Egretta thula),0.029732037370711034
+Tricolored Heron (Egretta tricolor),0.01902718545840642
+Piping Plover (Charadrius melodus),0.0354083777840483
+Black Skimmer (Rynchops niger),0.020783604392535595
+Least Tern (Sternula antillarum),0.04274794836070927
+Gull-billed Tern (Gelochelidon nilotica),0
+Laughing Gull (Leucophaeus atricilla),0.02169732876070632
+Forster's Tern (Sterna forsteri),0.001631560330905458
+King Rail (Rallus elegans),0.8562205848486315
+Roseate Tern (Sterna dougallii),0.021267263387273406
+Black Rail (Laterallus jamaicensis),0
+Summer Tanager (Piranga rubra),0.43855946851264666
+Common Eider (Somateria mollissima),0
+Western Kingbird (Tyrannus verticalis),0
+Lesser Scaup (Aythya affinis),0.722767875754921
+Eurasian Collared-Dove (Streptopelia decaocto),0.003924273134029356
+American White Pelican (Pelecanus erythrorhynchos),0.01658776170284832
+Canvasback (Aythya valisineria),0
+Western Meadowlark (Sturnella neglecta),2.4026543508648484
