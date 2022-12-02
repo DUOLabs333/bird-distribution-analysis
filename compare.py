@@ -4,6 +4,8 @@ birds_ratios={}
 
 birds_habitats={}
 
+#[[0.89, 1.03], 63.90041493775933]
+#[[1,1],76] {'Scrub': 0, 'Towns': 0, 'Lakes and Ponds': 0, 'Marshes': 0, 'Forests': 1, 'Rivers and Streams': 0, 'Open Woodlands': 0, 'Grasslands': 0, 'Shorelines': 0, 'Oceans': 0}
 
 with open("analysis_results.csv") as f:
     reader=csv.reader(f)
@@ -20,25 +22,25 @@ with open("preferred_habitats.csv") as f:
 habitats={
     "Scrub":0,
     "Towns":0,
-    "Lakes and Ponds":0.5,
+    "Lakes and Ponds":0,
     "Marshes":0,
     "Forests":1,
-    "Rivers and Streams":0.5,
+    "Rivers and Streams":0,
     "Open Woodlands": 0,
     "Grasslands":0,
-    "Shorelines":0.5,
+    "Shorelines":0,
     "Oceans":0
 }
 
 def normalize_score(a): #Function to return score to compare against habitats
-    if a>=1.5:
+    if a>=1:
         return 1
-    if a<1.5 and a>=0.5:
-        return 0.5
+    if a<1 and a>=1:
+        return 2
     return 0
     
 total=0
 for bird in birds_habitats:
-    total+=abs(habitats[birds_habitats[bird]]-normalize_score(birds_ratios[bird]))
+    total+=int(habitats[birds_habitats[bird]]==normalize_score(birds_ratios[bird]))
 
-print((1-(total/len(birds_habitats)))*100)
+print(total/len(birds_habitats)*100)
