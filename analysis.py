@@ -67,11 +67,10 @@ for bird in birds_locations:
         if abs(intersection)<10**(-7):
             intersection=0
             
-        inside+=intersection
-        location_area-=intersection
-        if abs(location_area)<10**(-7):
-            location_area=0
-        outside+=location_area
+        if (intersection>location_area-intersection):
+            inside+=location_area
+        else:
+            outside+=location_area
 
     if outside==0:
         birds_ratios[bird]="Infinity"
